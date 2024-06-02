@@ -1,0 +1,33 @@
+Instrucciones para Jugar Lights Out
+Inicio del Juego:
+
+Al iniciar la aplicación, se abrirá una ventana.
+Cambiar Jugador:
+
+Para cambiar el nombre del jugador, haz clic en el botón "Cambiar Jugador" en el panel derecho.
+Aparecerá una ventana emergente donde puedes ingresar tu nombre.
+Introduce tu nombre y haz clic en "OK".
+Seleccionar Tamaño y Dificultad:
+
+En el panel superior, selecciona el tamaño del tablero (3x3, 5x5, 9x9) desde el menú desplegable.
+Elige la dificultad (Fácil, Medio, Difícil) usando los botones de opción.
+Iniciar un Nuevo Juego:
+
+Para comenzar un nuevo juego, haz clic en el botón "Nuevo" en el panel derecho.
+El tablero aparecerá en el centro de la ventana con luces encendidas (en amarillo) y apagadas (en gris).
+Jugar:
+
+El objetivo del juego es encender todas las luces del tablero.
+Haz clic en cualquier luz del tablero. Esto cambiará el estado de la luz seleccionada y de sus luces vecinas (de encendido a apagado y viceversa).
+Continúa haciendo clic en las luces hasta que todas estén encendidas.
+Reiniciar el Juego:
+
+Si deseas reiniciar el juego actual, haz clic en el botón "Reiniciar" en el panel derecho. Esto restablecerá el tablero al estado inicial del juego actual.
+Ver el Top 10:
+
+Para ver los mejores puntajes, haz clic en el botón "Top 10" en el panel derecho.
+Aparecerá una ventana emergente mostrando la lista de los 10 mejores puntajes.
+Guardar Puntajes:
+
+Cuando completes el juego, si tu puntaje es lo suficientemente alto, se guardará automáticamente en el archivo top10.csv y se actualizará el Top 10.
+Un mensaje emergente te felicitará y el tablero se limpiará para empezar de nuevo si lo deseas.
